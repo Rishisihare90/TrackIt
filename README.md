@@ -57,7 +57,7 @@ Follow these instructions to set up the project locally.
 ### 1. Fork and Clone the Repository
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your_username>/TrackIt.git
+git clone https://github.com/Rishisihare90/TrackIt.git
 cd TrackIt
 ```
 
