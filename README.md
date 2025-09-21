@@ -78,7 +78,7 @@ cd TrackIt
     ```bash
     mvn spring-boot:run
     ```
-    The backend server will start on **http://localhost:5050**.
+    The backend server will start on `http://localhost:5050`.
 
 ### 3. Setup Frontend
 
@@ -94,4 +94,4 @@ cd TrackIt
     ```bash
       npm run dev
     ```
-    The React application will be available at **http://localhost:5173**.
+    The React application will be available at `http://localhost:5173`.
